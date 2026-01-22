@@ -10,14 +10,14 @@ Traditional attendance systems are time-consuming, error-prone, and vulnerable t
 This project addresses these challenges by providing a **contactless, automated, and scalable face recognition–based attendance solution**.
 
 # Key Features
-- 🔍 Real-time face detection and recognition
-- 🧠 High-accuracy face embeddings using **InsightFace (buffalo_l)**
-- 🎥 Multi-camera support via RTSP streams
-- 🧑‍🎓 Student enrollment with facial embeddings
-- ⏱️ Duplicate attendance prevention using time-based logic
-- 🚨 Unknown person detection and logging
-- 🗂️ Centralized MongoDB database storage
-- 🧵 Multi-threaded camera processing
+- Real-time face detection and recognition
+- High-accuracy face embeddings using **InsightFace (buffalo_l)**
+- Multi-camera support via RTSP streams
+- Student enrollment with facial embeddings
+- Duplicate attendance prevention using time-based logic
+- Unknown person detection and logging
+- Centralized MongoDB database storage
+- Multi-threaded camera processing
 
 
 # Technology Stack
